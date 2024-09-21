@@ -1,0 +1,5 @@
+Resumen Total del Proyecto
+Concepto	Costo Total
+Equipos	$4086
+Mano de Obra	$240
+Total General	$4326
